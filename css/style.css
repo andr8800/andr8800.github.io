@@ -35,6 +35,12 @@ img {
     grid-template-columns: 2fr 3fr;
 }
 
+.container .mid
+{
+    position: relative;
+    background: rgb(171, 255, 255);
+    padding:40px;
+}
 .container .left{
     position: relative;
     background: rgb(171, 255, 255);
@@ -45,3 +51,4 @@ img {
     background: #a1a3e2;
     padding: 40px;
 }
+
